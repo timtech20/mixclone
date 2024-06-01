@@ -41,9 +41,11 @@ a{
     width: 200px;
     height: 50px;
     background-color: #ed1c24;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
     color: #fff;
+    font-family: "Montserrat", sans-serif;
+
 }
 
 .sect1btn:hover{
@@ -154,15 +156,26 @@ font-style: 50px;
   
   }
 
+  /* .sect2p{
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    word-spacing: 1px;
+    
+} */
+  .sect2pcon{
+    padding: 0px 12%;
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    word-spacing: 1px;
+    
+}
+
   .sect3{
-    padding: 0px 300px;
+    padding: 0px 20%;
   }
   .sect3div1{
-    height: 300px;
+    height: 350px;
     background-color: #F1F5F9;
-    /* background-image: url(/img/indy-car-1bde5b2c41f995ff4e0db5d77bcef822b2a96f83fea641fc2bc1ae30d2c298a6.png);
-    background-repeat: no-repeat;
-    background-position: center; */
   }
 
   .sect3div2{
@@ -171,6 +184,180 @@ font-style: 50px;
   }
 
   .sect3div3{
-    height: 160px;
+    height: 250px;
     background-color: #F1F5F9;
+  }
+
+  .imgcon{
+    width: 80%;
+    margin-left: 70px;
+  }
+
+  .sect3p1{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    
+  }
+
+  .sect3{
+    padding: 0px 20%;
+  }
+
+  .sect4{
+    padding: 0px 16%;
+  }
+  .sect4img{
+    width: 100%;
+    height: 100%;
+  }
+  .sectimgcon{
+    width: 50%;
+    height: 400px;
+    bottom: 1px solid black;
+    }
+
+  .sectpcon{
+    width: 45%;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: #000;
+  }
+
+  .sect4p1{
+   font-weight: 700;
+   font-size: 40px;
+
+  }
+
+.sect4div1{
+    font-family: "Montserrat", sans-serif;
+    width: 40%;
+}
+
+.sect4p3{
+    color: #ed1c24;
+}
+
+.sect4btn{
+    width: 200px;
+    height: 50px;
+    background-color: #ed1c24;
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+  @media screen and (max-width:800px) {
+    .imgcon{
+        width: 80%;
+        margin-left: 30px;
+      }
+      .sect3{
+        padding: 0px 5%;
+      }
+    
+      .sect3p1{
+        font-size: 14px;
+        font-family: "Montserrat", sans-serif;
+        
+      }
+
+      .sect3p2{
+        font-size: 8px;
+        font-family: "Montserrat", sans-serif;
+        
+      }
+      .sect2{
+        padding: 0px 20px;
+        margin-top: 50px;
+    }
+      .sect2topbtndiv{
+        width: 100%;
+    }
+
+    .sect2topbtn1{
+        background-position: 15px;
+    background-size: 13%, 60%;
+        text-indent: 20px;
+        font-size: 12px;
+    }
+    
+    .sect2topbtn2{
+    background-position: 30px;
+    background-size: 10%, 60%;
+    text-indent: 10px;
+    font-size: 14px;
+    }
+    
+    .sect2topbtn3{
+    background-position: 30px;
+    text-indent: 20px;
+    font-size: 14px;
+    
+    }
+    .sect1{
+        margin-top: 40px;
+    }
+    .sect1p{
+        font-size: 40px;
+        font-weight: 450;
+        font-style: 50px;
+    }
+    
+    .sect1p2{
+        margin-top: -30px;
+        font-size: 40px;
+    }
+    .sect2pcon{
+        padding: 0px 1%;
+        font-size: 35px;
+        word-spacing: 1px;
+        
+    }
+    
+    .sect4{
+        padding: 0px 18%;
+      }
+      .sect4img{
+        width: 100%;
+        height: 100%;
+      }
+      .sectimgcon{
+        width: 100%;
+        height: 330px;
+        }
+    
+      .sectpcon{
+        width: 100%;
+        font-size: 15px;
+        text-align: center;
+      }
+    
+      .sect4p1{
+       font-weight: 700;
+       font-size: 25px;
+    
+      }
+
+      .sect4div1{
+
+        width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+
+    .sect4{
+        padding: 0px 6%;
+      }
+    .sect4img{
+        width: 100%;
+        height: 100%;
+      }
+      .sectimgcon{
+        width: 100%;
+        height: 330px;
+        }
   }
