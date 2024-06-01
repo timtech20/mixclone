@@ -360,4 +360,25 @@ font-style: 50px;
         width: 100%;
         height: 330px;
         }
+
+        .sect4btn{
+            width: 230px;
+            height: 50px;
+            background-color: #ed1c24;
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+            font-family: "Montserrat", sans-serif;
+        
+        }
+        .sect1btn{
+            width: 230px;
+            height: 50px;
+            background-color: #ed1c24;
+            font-size: 18px;
+            font-weight: 600;
+            color: #fff;
+            font-family: "Montserrat", sans-serif;
+        
+        }
   }
