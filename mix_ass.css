@@ -300,13 +300,18 @@ font-style: 50px;
     color: #000;
     }
 
-    .sect2topbtn2:focus{
+    .sect2topbtn1:hover{
+        color: #fff;
+          background-color: #000000;
+          background-image: url(img/focus_btn2.svg);
+      }
+    .sect2topbtn2:hover{
         color: #fff;
           background-color: #000000;
           background-image: url(img/focus_btn2.svg);
       }
     
-      .sect2topbtn3:focus{
+      .sect2topbtn3:hover{
         color: #fff;
           background-color: #000000;
           background-image: url(img/focus_btn3.svg);
