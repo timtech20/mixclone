@@ -163,21 +163,18 @@ font-style: 50px;
   .sect2btmbtn1{
    width: 8px;
    height: 10px;
-   border-radius: 50%;
    border: none;
    background: #e2eaf3;
   }
   .sect2btmbtn2{
    width: 8px;
    height: 10px;
-   border-radius: 50%;
    border: none;
    background: #e2eaf3;
   }
   .sect2btmbtn3{
    width: 8px;
    height: 10px;
-   border-radius: 50%;
    border: none;
    background: #e2eaf3;
   }
@@ -355,17 +352,15 @@ font-style: 50px;
       .sect2btmbtn1{
         width: 8px;
         height: 8px;
-        border-radius: 50%;
        }
        .sect2btmbtn2{
         width: 8px;
         height: 8px;
-        border-radius: 50%;;
        }
        .sect2btmbtn3{
         width: 8px;
         height:8px;
-        border-radius: 50%;
+
        }
 
       .sect2btmbtn1:hover{
@@ -510,18 +505,15 @@ font-style: 50px;
         }
 
         .sect2btmbtn1{
-            width: 4px;
+            width: 0px;
             height: 8px;
-            border-radius: 50%;
            }
            .sect2btmbtn2{
-            width: 4px;
+            width: 0px;
             height: 8px;
-            border-radius: 50%;;
            }
            .sect2btmbtn3{
-            width: 4px;
+            width: 0px;
             height:8px;
-            border-radius: 50%;
            }
   }
