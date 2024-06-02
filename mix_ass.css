@@ -302,8 +302,8 @@ font-style: 50px;
 
     .sect2topbtn1:hover{
         color: #fff;
-          background-color: #000000;
-          background-image: url(img/focus_btn2.svg);
+        background-color: #000000;
+        background-image: url(img/focus_btn1.svg);
       }
     .sect2topbtn2:hover{
         color: #fff;
